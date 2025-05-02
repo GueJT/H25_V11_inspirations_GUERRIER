@@ -3,7 +3,8 @@
 ## CON DU8
 **Créateurs** : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté  
 **Description** : CON DU8 propose un jeu vidéo de course contrôlé par un vélo réel, incitant ainsi à l'exercice de façon ludique.  
-**Image** : ![photo_expo_velo2.png](photo_expo_velo2.png)
+**Image** : ![photo_expo_velo2](https://github.com/user-attachments/assets/2318098a-5674-4776-80bf-ba4898edac49)
+
 
 **Installation et Schéma**  
 Un vélo est relié à une console par des câbles. Le jeu est projeté sur un écran via un projecteur.
@@ -23,7 +24,8 @@ Le jeu motive à faire du cardio. Cependant, les trois pistes disponibles sont e
 ## Arcadia
 **Créateurs** : Dominic Yale, William Beauvais et Anton Nikulin  
 **Description** : Arcadia est un jeu de plateforme de type arcade avec des quêtes, des ennemis et des obstacles.  
-**Image** : ![jeu_ordinateur3.png](jeu_ordinateur3.png)
+**Image** : ![jeu_ordinateur3](https://github.com/user-attachments/assets/8324a8f9-5ec0-4b42-b1aa-2c1c2fd9983a)
+
 
 **Installation et Schéma**  
 Installé dans une borne d'arcade avec joystick et boutons.
@@ -31,7 +33,8 @@ Installé dans une borne d'arcade avec joystick et boutons.
 **Mon expérience**  
 Captivant mais frustrant. Les attaques manquent d'efficacité, surtout lors des sauts.
 
-**Image** : ![jeu_ordinateur2.png](jeu_ordinateur2.png)
+**Image** : ![jeu_ordinateur2](https://github.com/user-attachments/assets/68fb16ca-4e45-4b1d-8999-450576025c4c)
+
 
 **Cours clés**  
 - Interactivité ludique  
@@ -64,7 +67,8 @@ Agréable et satisfaisant, mais des options supplémentaires seraient les bienve
 ## Luminatura
 **Créateurs** : Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam et Ihab Mouhajer  
 **Description** : Luminatura projette des images interactives sur un mur grâce à des plaques métalliques.  
-**Image** : ![expo_arbre3.png](expo_arbre3.png)
+**Image** : ![expo_arbre3](https://github.com/user-attachments/assets/5b569cde-ce23-49d3-a8d7-c3f8797773cf)
+
 
 **Installation et Schéma**  
 Projecteurs et trois plaques de métal interactives.
@@ -72,7 +76,8 @@ Projecteurs et trois plaques de métal interactives.
 **Mon expérience**  
 Très belle animation 3D, captivante et fluide.
 
-**Image** : ![expo_arbre1.png](expo_arbre1.png)
+**Image** : ![expo_arbre1](https://github.com/user-attachments/assets/7ba22ff8-48e6-43c7-bc2b-2ea2ef025103)
+
 
 **Cours clés**  
 - Installation multimédia  
